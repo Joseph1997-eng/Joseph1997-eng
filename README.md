@@ -15,7 +15,7 @@
 ### 📫 Connect with Me  
 - 📩 Email: josephsaimonn@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robinson-joseph-61734a17a)  
-- 🌍 Portfolio: *Coming soon!*  
+- 🌍 [Portfolio:](https://joseph1997-eng.github.io/portfolio-/)   
 - 🏆 **GitHub Profile:** [Joseph1997-eng](https://github.com/Joseph1997-eng)  
 
 ### 🚀 GitHub Stats  
