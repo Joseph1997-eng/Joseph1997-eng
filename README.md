@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love PowerPoint Animations & Creative Designs  
 
 ### 🔧 Tech Skills  
-- **Languages:** HTML, CSS, JavaScript  
+- **Languages:** HTML, CSS, JavaScript, Python, Java  
 - **Tools:** Git, GitHub, VS Code, jQuery  
 - **Other Interests:** Cybersecurity, AI, and Data Science  
 
