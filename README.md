@@ -1,59 +1,61 @@
 # Hi there, I'm Robinson Joseph! 👋
 
-### M.Tech Scholar | Cybersecurity Analyst | AI Researcher
+### 🔐 Cybersecurity Researcher | 🤖 AI Enthusiast | 💻 Web Developer
 
-I am a Master of Technology student specializing in **Cybersecurity and Artificial Intelligence** at Graphic Era Hill University. My work focuses on the intersection of soft computing, secure development, and intelligent systems.
+I am currently pursuing my **M.Tech in Cybersecurity and Artificial Intelligence** at **Graphic Era Hill University**, Dehradun. My passion lies in bridging the gap between web development and secure, intelligent systems using Deep Learning and Soft Computing.
 
-- 🔭 **I’m currently working on:** Advanced anomaly detection using Genetic Algorithms and AI-driven cybersecurity solutions.
+- 🔭 **I’m currently working on:** **CNN Based Malware Detection System** & Advanced Anomaly Detection.
 - 🎓 **Education:** M.Tech in Cybersecurity & AI (Graphic Era Hill University).
-- 🌱 **I’m currently learning:** Generative Adversarial Networks (GANs) & Advanced Cryptography.
-- 👯 **I’m looking to collaborate on:** Open-source security tools and AI research projects.
-- 💬 **Ask me about:** Python, Network Security, Soft Computing (Fuzzy Logic/GA), and Full-Stack Dev.
+- 🌱 **I’m currently learning:** Generative Adversarial Networks (GANs), Soft Computing, and Advanced Cryptography.
+- ⚡ **Fun fact:** Beyond coding, I love creating creative **PowerPoint Animations** and Designs! 🎨
 
 ---
 
 ### 🛠️ Technical Skills
 
-| Category | Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C, JavaScript, SQL, Bash |
-| **AI & ML** | PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, Soft Computing |
-| **Development** | React, Supabase, HTML5, CSS3, Git/GitHub |
-| **Cybersecurity** | Network Security, Cryptography, Anomaly Detection |
-| **Tools** | VS Code, Jupyter Notebook, Linux (Ubuntu/Kali) |
+| **Languages** | Python, Java, C, JavaScript, SQL |
+| **AI & Data Science** | **CNN (Convolutional Neural Networks)**, PyTorch, Pandas, NumPy, Soft Computing |
+| **Web Development** | HTML5, CSS3, React, Supabase, jQuery |
+| **Cybersecurity** | Malware Analysis, Network Security, Cryptography |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Linux |
 
 ---
 
 ### 🚀 Featured Projects
 
-> *Note: Check out my repositories for the full source code.*
+#### 🦠 [CNN Based Malware Detection]
+- Developing a Deep Learning model using **Convolutional Neural Networks (CNN)** to classify and detect malware signatures in image format.
+- Focuses on improving detection accuracy for zero-day threats compared to traditional signature-based methods.
 
-#### 🛡️ [Cybersecurity & AI Research]
+#### 🧬 [Soft Computing & AI Research]
 - Implementation of **Genetic Algorithms** for optimization problems.
-- Research on **Generative Adversarial Networks (GANs)** for image synthesis.
-- Analysis of security protocols and cryptographic standards.
+- Research on **Generative Adversarial Networks (GANs)** for secure data synthesis.
 
-#### 💻 [Full Stack Development]
-- **Real-time Chat Application:** Built using React and **Supabase** with robust authentication.
-- **University Management Tools:** Custom scripts for academic grading and automation.
+#### 🌐 [Web & Creative Portfolio]
+- **Real-time Chat Application:** Built using React and Supabase.
+- My personal showcase of web projects and designs.
+- 👉 **[Visit My Portfolio](https://joseph1997-eng.github.io/portfolio-/)**
 
 ---
 
 ### 📊 GitHub Stats
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph1997-eng&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical&hide_border=true" alt="Joseph's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph1997-eng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** [josephsaimonn@gmail.com](mailto:josephsaimonn@gmail.com)
-- 💼 **LinkedIn:** [Robinson Joseph](https://www.linkedin.com/in/robinson-joseph/)
-- 🌐 **Portfolio:** [View My Portfolio Repository](https://github.com/Joseph1997-eng/Portfolio)
+- 📩 **Email:** [josephsaimonn@gmail.com](mailto:josephsaimonn@gmail.com)
+- 🔗 **LinkedIn:** [Robinson Joseph](https://www.linkedin.com/in/robinson-joseph-61734a17a)
+- 🌍 **Portfolio:** [joseph1997-eng.github.io/portfolio-/](https://joseph1997-eng.github.io/portfolio-/)
 
 ---
 <p align="center">
-  <i>"Security is not a product, but a process."</i>
+  <i>"Innovating specifically for a Secure and Intelligent Future."</i>
 </p>
