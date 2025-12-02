@@ -75,3 +75,6 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/robinson-joseph-61734a17a)
 
 </div>
+---
+### 🚀 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical) 
