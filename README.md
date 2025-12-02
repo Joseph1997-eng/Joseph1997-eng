@@ -1,6 +1,8 @@
-# Hi, I'm Robinson Joseph 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Robinson+Joseph+%F0%9F%91%8B;Cybersecurity+%26+AI+Specialist;Full-Stack+Developer;M.Tech+Student" alt="Typing SVG" />
+</div>
 
-**M.Tech Student | Cybersecurity & AI Specialist | Full-Stack Developer**
+**🎓 M.Tech Student | 🔐 Cybersecurity & AI Specialist | 💻 Full-Stack Developer**
 
 I'm passionate about bridging the intersection of **web development**, **cybersecurity**, and **intelligent systems**. Currently, I'm leveraging deep learning and soft computing to create innovative solutions for modern security challenges.
 
@@ -84,6 +86,8 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 
 <div align="center">
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Joseph1997-eng&theme=light&row=2&column=3)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joseph1997-eng&theme=dark)
 
 ![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?user=Joseph1997-eng&theme=dark&layout=compact)
@@ -101,6 +105,12 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseph1997--eng.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://joseph1997-eng.github.io/portfolio-/)
 
 </div>
+
+---
+
+## 💡 Philosophy
+
+> **"Innovating specifically for a Secure and Intelligent Future."**
 
 ---
 
