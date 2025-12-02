@@ -76,5 +76,4 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 
 </div>
 ---
-### 🚀 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical) 
+
