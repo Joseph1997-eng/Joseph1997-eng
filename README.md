@@ -86,7 +86,7 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Joseph1997-eng&theme=light&row=2&column=3)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Joseph1997-eng&theme=onestar&row=1&column=7)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joseph1997-eng&theme=dark)
 
@@ -105,12 +105,6 @@ Explore my web development projects and design portfolio at [joseph1997-eng.gith
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseph1997--eng.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://joseph1997-eng.github.io/portfolio-/)
 
 </div>
-
----
-
-## 💡 Philosophy
-
-> **"Innovating specifically for a Secure and Intelligent Future."**
 
 ---
 
