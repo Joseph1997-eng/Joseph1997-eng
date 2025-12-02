@@ -41,18 +41,17 @@ I am a Master of Technology student specializing in **Cybersecurity and Artifici
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical&hide_border=true" alt="Joseph's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph1997-eng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph1997-eng&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph1997-eng&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 
 - 📧 **Email:** [josephsaimonn@gmail.com](mailto:josephsaimonn@gmail.com)
-- 💼 **LinkedIn:** [Robinson Joseph](https://www.linkedin.com/in/robinson-joseph/) *(Replace with your actual Link)*
-- 🌐 **Portfolio:** [Coming Soon...]
+- 💼 **LinkedIn:** [Robinson Joseph](https://www.linkedin.com/in/robinson-joseph/)
+- 🌐 **Portfolio:** [View My Portfolio Repository](https://github.com/Joseph1997-eng/Portfolio)
 
 ---
 <p align="center">
