@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Robinson+Joseph;Cybersecurity+%26+AI+Specialist;Full-Stack+Developer;M.Tech+Student+%40+GEHU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Joseph;Cybersecurity+%26+AI+Specialist;Full-Stack+Developer;M.Tech+Student+%40+GEHU" alt="Typing SVG" />
 
 <!-- Profile Views & Social Badges -->
 <p>
@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class RobinsonJoseph:
+class Joseph:
     def __init__(self):
         self.name = "Joseph"
         self.role = "Cybersecurity & AI Specialist"
